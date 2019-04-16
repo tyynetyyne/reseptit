@@ -15,5 +15,5 @@ Kuorrutus:
 - 5 rkl    sulatettua voita
 - 5 rkl    vahvaa kahvia
 - 1 rk     kaakaota
-- 1 tl      vaniljasokeria
+- 2 tl      vaniljasokeria
 
